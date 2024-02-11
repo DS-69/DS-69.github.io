@@ -1,0 +1,17 @@
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: ngzhio/jekyll-theme-hamilton
+title: DS-69
+description: Welcome to DS-69!, Thank You For Visiting! :)
+avatar: 
+subscribe: false
+location: false
+author: DS-69
+skin: sunrise
+social:
+  name: DS-69
+  links:
+    - https://www.linkedin.com/company/ds-69
+    - https://github.com/DS-69
+    - https://www.udemy.com/user/muhammad-haidar-khan/
